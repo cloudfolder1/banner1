@@ -10,7 +10,7 @@
     position: absolute;
     top: 0;
     width: 100%;
-    background: black;
+    background: rgba(0, 0, 0, 0.575);
     padding: 10px,20px;
     display: flex;
     justify-content: space-between;
@@ -22,8 +22,6 @@
     margin: 0 10px;
     font-weight: bold;
 }
-
-
 .nav-bar a:hover {
     text-decoration: underline;
 }
